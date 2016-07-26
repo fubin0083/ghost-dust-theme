@@ -13,8 +13,8 @@ function navigation(url){
     $document.ready(function () {
         if(document.getElementById('header-bg')){
             particleground(document.getElementById('header-bg'), {
-                dotColor: '#5cbdaa',
-                lineColor: '#5cbdaa'
+                dotColor: '#ffffff',
+                lineColor: '#ffffff'
             });
         }
         var $postContent = $(".post-content");
